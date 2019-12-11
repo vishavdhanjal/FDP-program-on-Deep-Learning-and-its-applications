@@ -1,0 +1,18 @@
+{
+    "aspect_ratio": 1,
+    "batch_size": 1,
+    "beta1": 0.5,
+    "checkpoint": "Trained_Model",
+    "gan_weight": 1.0,
+    "input_dir": "inputs",
+    "l1_weight": 10.0,
+    "lr": 0.0002,
+    "mode": "train",
+    "ndf": 64,
+    "ngf": 64,
+    "output_dir": "outputs",
+    "output_filetype": "png",
+    "scale_size": 500,
+    "seed": 1,
+    "which_direction": "AtoB"
+}
