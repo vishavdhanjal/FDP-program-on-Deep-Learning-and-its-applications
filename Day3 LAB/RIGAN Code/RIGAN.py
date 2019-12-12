@@ -422,5 +422,4 @@ def main():
             #print("saving model")
             #saver.save(sess, os.path.join('New_Model', "model"), global_step=sv.global_step)
 
-
 main()

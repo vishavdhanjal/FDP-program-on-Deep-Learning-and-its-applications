@@ -7,12 +7,12 @@
     "input_dir": "inputs",
     "l1_weight": 10.0,
     "lr": 0.0002,
-    "mode": "train",
+    "mode": "test",
     "ndf": 64,
     "ngf": 64,
     "output_dir": "outputs",
     "output_filetype": "png",
     "scale_size": 500,
-    "seed": 1,
+    "seed": null,
     "which_direction": "AtoB"
 }
