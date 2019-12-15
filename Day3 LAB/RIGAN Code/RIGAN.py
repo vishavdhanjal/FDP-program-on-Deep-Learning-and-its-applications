@@ -83,8 +83,8 @@ def load_examples():
     
     if len(input_paths) == 0:
         raise Exception("input_dir contains no image files")
-    if len(target_paths) == 0:
-        raise Exception("target_dir contains no image files")
+#    if len(target_paths) == 0:
+#        raise Exception("target_dir contains no image files")
     
     def get_name(path):
         name, _ = os.path.splitext(os.path.basename(path))
